@@ -2,3 +2,6 @@ db/battles.db
 __pycache__/
 *.pyc
 .venv/
+.env
+keys.txt
+opponent_decks
