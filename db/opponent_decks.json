@@ -2560,5 +2560,677 @@
             "elixir": 3,
             "rarity": "epic"
         }
+    },
+    "20251127T105359.000Z": {
+        "Valkyrie": {
+            "level": 9,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Mega Knight": {
+            "level": 6,
+            "elixir": 7,
+            "rarity": "legendary"
+        },
+        "Fireball": {
+            "level": 9,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Skeleton Army": {
+            "level": 8,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Mini P.E.K.K.A": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Minions": {
+            "level": 13,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Cannon": {
+            "level": 11,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "The Log": {
+            "level": 3,
+            "elixir": 2,
+            "rarity": "legendary"
+        }
+    },
+    "20251127T104020.000Z": {
+        "Wizard": {
+            "level": 11,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Mini P.E.K.K.A": {
+            "level": 11,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Elixir Golem": {
+            "level": 8,
+            "elixir": 3,
+            "rarity": "rare"
+        },
+        "Skeleton Army": {
+            "level": 6,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Goblin Curse": {
+            "level": 6,
+            "elixir": 2,
+            "rarity": "epic"
+        },
+        "Berserker": {
+            "level": 10,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Bats": {
+            "level": 14,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Mirror": {
+            "level": 7,
+            "elixir": null,
+            "rarity": "epic"
+        }
+    },
+    "20251127T103602.000Z": {
+        "Flying Machine": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Arrows": {
+            "level": 12,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Royal Hogs": {
+            "level": 10,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Royal Recruits": {
+            "level": 12,
+            "elixir": 7,
+            "rarity": "common"
+        },
+        "Zappies": {
+            "level": 9,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Electro Spirit": {
+            "level": 12,
+            "elixir": 1,
+            "rarity": "common"
+        },
+        "Barbarian Barrel": {
+            "level": 7,
+            "elixir": 2,
+            "rarity": "epic"
+        },
+        "Goblin Cage": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        }
+    },
+    "20251127T103146.000Z": {
+        "Three Musketeers": {
+            "level": 9,
+            "elixir": 9,
+            "rarity": "rare"
+        },
+        "Archers": {
+            "level": 12,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Elixir Collector": {
+            "level": 9,
+            "elixir": 6,
+            "rarity": "rare"
+        },
+        "Heal Spirit": {
+            "level": 10,
+            "elixir": 1,
+            "rarity": "rare"
+        },
+        "Royal Ghost": {
+            "level": 3,
+            "elixir": 3,
+            "rarity": "legendary"
+        },
+        "Bandit": {
+            "level": 3,
+            "elixir": 3,
+            "rarity": "legendary"
+        },
+        "Elite Barbarians": {
+            "level": 12,
+            "elixir": 6,
+            "rarity": "common"
+        },
+        "Rage": {
+            "level": 6,
+            "elixir": 2,
+            "rarity": "epic"
+        }
+    },
+    "20251127T102833.000Z": {
+        "Battle Ram": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Royal Ghost": {
+            "level": 4,
+            "elixir": 3,
+            "rarity": "legendary"
+        },
+        "Rascals": {
+            "level": 12,
+            "elixir": 5,
+            "rarity": "common"
+        },
+        "Goblin Cage": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Baby Dragon": {
+            "level": 7,
+            "elixir": 4,
+            "rarity": "epic"
+        },
+        "Bowler": {
+            "level": 7,
+            "elixir": 5,
+            "rarity": "epic"
+        },
+        "Cannon Cart": {
+            "level": 7,
+            "elixir": 5,
+            "rarity": "epic"
+        },
+        "Goblin Demolisher": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        }
+    },
+    "20251127T102453.000Z": {
+        "Rage": {
+            "level": 6,
+            "elixir": 2,
+            "rarity": "epic"
+        },
+        "Sparky": {
+            "level": 4,
+            "elixir": 6,
+            "rarity": "legendary"
+        },
+        "Elite Barbarians": {
+            "level": 12,
+            "elixir": 6,
+            "rarity": "common"
+        },
+        "Zap": {
+            "level": 12,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Goblin Giant": {
+            "level": 7,
+            "elixir": 6,
+            "rarity": "epic"
+        },
+        "Dark Prince": {
+            "level": 7,
+            "elixir": 4,
+            "rarity": "epic"
+        },
+        "Electro Wizard": {
+            "level": 4,
+            "elixir": 4,
+            "rarity": "legendary"
+        },
+        "Heal Spirit": {
+            "level": 9,
+            "elixir": 1,
+            "rarity": "rare"
+        }
+    },
+    "20251127T102143.000Z": {
+        "Tesla": {
+            "level": 11,
+            "elixir": 4,
+            "rarity": "common"
+        },
+        "Royal Hogs": {
+            "level": 10,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Boss Bandit": {
+            "level": 2,
+            "elixir": 6,
+            "rarity": "champion"
+        },
+        "Mini P.E.K.K.A": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "The Log": {
+            "level": 3,
+            "elixir": 2,
+            "rarity": "legendary"
+        },
+        "Skeletons": {
+            "level": 12,
+            "elixir": 1,
+            "rarity": "common"
+        },
+        "Royal Delivery": {
+            "level": 11,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Dark Prince": {
+            "level": 7,
+            "elixir": 4,
+            "rarity": "epic"
+        }
+    },
+    "20251127T101719.000Z": {
+        "Archers": {
+            "level": 13,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Tombstone": {
+            "level": 9,
+            "elixir": 3,
+            "rarity": "rare"
+        },
+        "Mighty Miner": {
+            "level": 3,
+            "elixir": 4,
+            "rarity": "champion"
+        },
+        "Royal Delivery": {
+            "level": 11,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Royal Hogs": {
+            "level": 10,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Rage": {
+            "level": 6,
+            "elixir": 2,
+            "rarity": "epic"
+        },
+        "Earthquake": {
+            "level": 10,
+            "elixir": 3,
+            "rarity": "rare"
+        },
+        "Ice Spirit": {
+            "level": 11,
+            "elixir": 1,
+            "rarity": "common"
+        }
+    },
+    "20251127T101259.000Z": {
+        "Firecracker": {
+            "level": 14,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Ice Spirit": {
+            "level": 10,
+            "elixir": 1,
+            "rarity": "common"
+        },
+        "Boss Bandit": {
+            "level": 2,
+            "elixir": 6,
+            "rarity": "champion"
+        },
+        "Electro Spirit": {
+            "level": 11,
+            "elixir": 1,
+            "rarity": "common"
+        },
+        "Fire Spirit": {
+            "level": 9,
+            "elixir": 1,
+            "rarity": "common"
+        },
+        "Skeletons": {
+            "level": 9,
+            "elixir": 1,
+            "rarity": "common"
+        },
+        "Wizard": {
+            "level": 10,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Princess": {
+            "level": 2,
+            "elixir": 3,
+            "rarity": "legendary"
+        }
+    },
+    "20251127T100740.000Z": {
+        "Cannon": {
+            "level": 12,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Goblin Barrel": {
+            "level": 8,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Knight": {
+            "level": 13,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Goblin Gang": {
+            "level": 12,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "The Log": {
+            "level": 4,
+            "elixir": 2,
+            "rarity": "legendary"
+        },
+        "Princess": {
+            "level": 4,
+            "elixir": 3,
+            "rarity": "legendary"
+        },
+        "Rocket": {
+            "level": 9,
+            "elixir": 6,
+            "rarity": "rare"
+        },
+        "Ice Spirit": {
+            "level": 11,
+            "elixir": 1,
+            "rarity": "common"
+        }
+    },
+    "20251126T175328.000Z": {
+        "Valkyrie": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Dart Goblin": {
+            "level": 8,
+            "elixir": 3,
+            "rarity": "rare"
+        },
+        "Berserker": {
+            "level": 8,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Skeleton Army": {
+            "level": 4,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Goblin Barrel": {
+            "level": 8,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Firecracker": {
+            "level": 14,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Knight": {
+            "level": 10,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Mini P.E.K.K.A": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        }
+    },
+    "20251126T170010.000Z": {
+        "Bats": {
+            "level": 12,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Lightning": {
+            "level": 7,
+            "elixir": 6,
+            "rarity": "epic"
+        },
+        "Mega Knight": {
+            "level": 4,
+            "elixir": 7,
+            "rarity": "legendary"
+        },
+        "Ram Rider": {
+            "level": 4,
+            "elixir": 5,
+            "rarity": "legendary"
+        },
+        "Archer Queen": {
+            "level": 2,
+            "elixir": 5,
+            "rarity": "champion"
+        },
+        "Royal Ghost": {
+            "level": 4,
+            "elixir": 3,
+            "rarity": "legendary"
+        },
+        "Bandit": {
+            "level": 4,
+            "elixir": 3,
+            "rarity": "legendary"
+        },
+        "Arrows": {
+            "level": 12,
+            "elixir": 3,
+            "rarity": "common"
+        }
+    },
+    "20251126T165659.000Z": {
+        "Ram Rider": {
+            "level": 4,
+            "elixir": 5,
+            "rarity": "legendary"
+        },
+        "Electro Wizard": {
+            "level": 4,
+            "elixir": 4,
+            "rarity": "legendary"
+        },
+        "Inferno Dragon": {
+            "level": 3,
+            "elixir": 4,
+            "rarity": "legendary"
+        },
+        "Balloon": {
+            "level": 9,
+            "elixir": 5,
+            "rarity": "epic"
+        },
+        "Inferno Tower": {
+            "level": 9,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Zap": {
+            "level": 11,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Princess": {
+            "level": 3,
+            "elixir": 3,
+            "rarity": "legendary"
+        },
+        "Freeze": {
+            "level": 7,
+            "elixir": 4,
+            "rarity": "epic"
+        }
+    },
+    "20251126T163927.000Z": {
+        "Bats": {
+            "level": 12,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Skeleton Army": {
+            "level": 7,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Golden Knight": {
+            "level": 3,
+            "elixir": 4,
+            "rarity": "champion"
+        },
+        "Knight": {
+            "level": 13,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Goblin Barrel": {
+            "level": 7,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Dart Goblin": {
+            "level": 8,
+            "elixir": 3,
+            "rarity": "rare"
+        },
+        "Electro Wizard": {
+            "level": 3,
+            "elixir": 4,
+            "rarity": "legendary"
+        },
+        "Mega Knight": {
+            "level": 3,
+            "elixir": 7,
+            "rarity": "legendary"
+        }
+    },
+    "20251126T163454.000Z": {
+        "Wizard": {
+            "level": 9,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Witch": {
+            "level": 7,
+            "elixir": 5,
+            "rarity": "epic"
+        },
+        "Lumberjack": {
+            "level": 4,
+            "elixir": 4,
+            "rarity": "legendary"
+        },
+        "Zap": {
+            "level": 11,
+            "elixir": 2,
+            "rarity": "common"
+        },
+        "Mini P.E.K.K.A": {
+            "level": 10,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Minions": {
+            "level": 13,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Arrows": {
+            "level": 12,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Mega Knight": {
+            "level": 5,
+            "elixir": 7,
+            "rarity": "legendary"
+        }
+    },
+    "20251126T161847.000Z": {
+        "Firecracker": {
+            "level": 12,
+            "elixir": 3,
+            "rarity": "common"
+        },
+        "Dart Goblin": {
+            "level": 9,
+            "elixir": 3,
+            "rarity": "rare"
+        },
+        "Musketeer": {
+            "level": 9,
+            "elixir": 4,
+            "rarity": "rare"
+        },
+        "Tornado": {
+            "level": 5,
+            "elixir": 3,
+            "rarity": "epic"
+        },
+        "Bowler": {
+            "level": 8,
+            "elixir": 5,
+            "rarity": "epic"
+        },
+        "Inferno Tower": {
+            "level": 8,
+            "elixir": 5,
+            "rarity": "rare"
+        },
+        "Elixir Golem": {
+            "level": 9,
+            "elixir": 3,
+            "rarity": "rare"
+        },
+        "Battle Healer": {
+            "level": 9,
+            "elixir": 4,
+            "rarity": "rare"
+        }
     }
 }
