@@ -9,9 +9,10 @@ import json
 #KEY CHECKER DOES NOT WORK FIX THIS
 #DOESNT RAISE ERROR EITHER
 env_list = [
-    "keys/desktop_home.env",
+    #"keys/desktop_home.env",
     #"keys/uva.env",
-    #"keys/weesper.env"
+    #"keys/weesper.env",
+    'keys/uva-sp-c0.005.env'
 ]
 player_tag = "#2RJ0LJYCU"
 encoded_tag = up.quote(player_tag)
